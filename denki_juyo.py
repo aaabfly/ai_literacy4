@@ -10,7 +10,7 @@ Original file is located at
 
 AIリテラシー課題第一回で使用した時系列分析を、今回は神戸の電気使用量を予測するために使ってみる。
 
-つもりでした。途中で詰まってます。
+つもりでした。データ整形で詰まってます。
 """
 
 from google.colab import drive
